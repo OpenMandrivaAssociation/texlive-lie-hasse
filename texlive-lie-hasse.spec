@@ -1,6 +1,6 @@
 Name:		texlive-lie-hasse
-Version:	61719
-Release:	2
+Version:	71883
+Release:	1
 Summary:	Draw Hasse diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lie-hasse
